@@ -166,4 +166,4 @@ Datum: 27.01.2020
 
 Über die Jahre habe ich Ressourcen gesammelt, auf die ich auch immer wieder selbst zurückgreife. Die Themen umfassen u. a.: 
 
-[Sonic Pi, Live Coding, Synthesizer, Klangsynthese, Musiktheorie, Akustik, Ästhetik, Software, Sampes und mehr](https://github.com/mbutz/sonicpi-leuphana-ws1921/blob/master/resources-and-good-reads.md)
+[Sonic Pi, Live Coding, Synthesizer, Klangsynthese, Musiktheorie, Akustik, Ästhetik, Software, Sampes und mehr](https://github.com/mbutz/sonicpi-leuphana-ws2021/blob/master/resources-and-good-reads.md)
