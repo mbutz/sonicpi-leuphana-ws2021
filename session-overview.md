@@ -15,7 +15,7 @@ Die folgende Seminarübersicht ist vorläufig und wird je nach Interesse und Ler
 
 ## Session 1: Einstieg
 
-Datum: 16.10.2019
+Datum: 14.10.2019
 
 - Vorstellung der TeilnehmerInnen und des Dozenten
 - Organisatorisches
@@ -31,7 +31,7 @@ Datum: 16.10.2019
 
 ## Session 2: Synthesizer in Sonic Pi, live_Loop, tick & look
 
-Datum: 30.10.2019
+Datum: 28.10.2019
 
 - Präsentation der Hausaufgabe vom 16.10.
 - Referat: Synthesizer (Grundlagen, Bestand in Sonic Pi)
@@ -62,9 +62,9 @@ Datum: 30.10.2019
 
 ## Session 3: Samples in Sonic Pi, Live_Loop-Synchronisation
 
-Datum: 13.11.2019
+Datum: 11.11.2019
 
-- Präsentation der Hausaufgabe vom 30.10.
+- Präsentation der Hausaufgabe vom 28.10.
 - Referat: Samples in Sonic Pi (Einbindung, Parameter, externe Samples)
 - Sample-Parameter und Slicing
 - Synchronisation von Live-Loops (Codebeispiele mit Erläuterungen)
@@ -86,9 +86,9 @@ Datum: 13.11.2019
 
 ## Session 4: Filter und Effekte in Sonic Pi, Musiktheorie
 
-Datum: 27.11.2019
+Datum: 25.11.2019
 
-- Präsentation der Hausaufgabe vom 13.11.
+- Präsentation der Hausaufgabe vom 11.11.
 - Referat: Filter und Effekte in Sonic Pi
 - Synchronisation von `live_loops`
 - Linearer Ablauf mit `in_thread`
@@ -110,9 +110,9 @@ Datum: 27.11.2019
 
 ## Session 5: Elektronische Musik I, Organisation und Ablaufsteuerung von Code II
 
-Datum: 11.12.2019
+Datum: 09.12.2019
 
-- Präsentation der Hausaufgabe von 27.11.
+- Präsentation der Hausaufgabe von 25.11.
 - Referat: Elektronische Musik I am Beispiel von "Kontakte" von Karlheinz Stockhausen
 - Wiederholung des Materials aus vorhergehenden Sessions (Tonfolgen, Effekte, `live_loop`, `in_thread` etc.)
 - Pair Programming
@@ -133,9 +133,9 @@ Datum: 11.12.2019
 
 ## Session 6: Elektronische Musik II: Electronica, musikalische Analyse
 
-Datum: 08.01.2020
+Datum: 13.01.2020
 
-- Präsentation der Hausaufgabe von 11.12.
+- Präsentation der Hausaufgabe von 09.12.
 - Referat: Elektronische Musik II, "Advice to clever children": Aphex Twin, Plasticman, Scanner, Daniel Pemberton u.a.
 - Musikalische Analyse und Nachbau in Sonic Pi ([SonicVisualizer](https://github.com/mbutz/sonicpi-leuphana-ws1617/tree/master/sonic-visualiser), Codebeispiele und Erläuterungen zu Nachbau von [Digital Bubblebath](https://www.youtube.com/watch?v=Fy8h3kSef1E)/[Nachbau](https://soundcloud.com/mbutz/digital-bubblebath) und [Otaku](https://www.youtube.com/watch?v=OYusX7V1SaI)/[Nachbau](https://soundcloud.com/mbutz/otaku-1-from-series-rec-with-sonic-pi))
 - Pair Programming
@@ -152,9 +152,9 @@ Datum: 08.01.2020
 
 ## Session 7: Sonic Pi mit Midi & OSC erweitern - Rückblick
 
-Datum: 22.01.2020
+Datum: 27.01.2020
 
-- Präsentation der Hausaufgabe vom 08.01.
+- Präsentation der Hausaufgabe vom 13.01.
 - Midi und OSC: Sonic Pi mit externen Geräte ansteuern (z. B. Midi-Controller) oder externe Geräten steuern (z. B. Hard- oder Software-Synthesizer)
 - Vorstellung der vorläufigen Arbeitsergebnisse
 - Rekapitulation
@@ -166,4 +166,4 @@ Datum: 22.01.2020
 
 Über die Jahre habe ich Ressourcen gesammelt, auf die ich auch immer wieder selbst zurückgreife. Die Themen umfassen u. a.: 
 
-[Sonic Pi, Live Coding, Synthesizer, Klangsynthese, Musiktheorie, Akustik, Ästhetik, Software, Sampes und mehr](https://github.com/mbutz/sonicpi-leuphana-ws1920/blob/master/resources-and-good-reads.md)
+[Sonic Pi, Live Coding, Synthesizer, Klangsynthese, Musiktheorie, Akustik, Ästhetik, Software, Sampes und mehr](https://github.com/mbutz/sonicpi-leuphana-ws1921/blob/master/resources-and-good-reads.md)
