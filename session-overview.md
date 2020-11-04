@@ -53,7 +53,7 @@ Datum: 28.10.2019
 ### Ressourcen
 
 - Sonic Pi-Dokumentation Kap. 2 "Synths"
-- Wolfgang Saus, Die Obertonreihe, http://www.oberton.org/obertongesang/die-obertonreihe/ 
+- Wolfgang Saus, Die Obertonreihe, http://www.oberton.org/obertongesang/die-obertonreihe/
 - Sound on Sound, Synth Secrets, http://www.soundonsound.com/sos/allsynthsecrets.htm
 - Overtones, harmonics and Additive synthesis, https://www.youtube.com/watch?v=YsZKvLnf7wU&list=PL0CF041F562C5BE5E
 - ADSR envelope synth tutorial part A:  https://www.youtube.com/watch?v=A6pp6OMU5r8&list=PL0CF041F562C5BE5E&index=2
@@ -82,6 +82,7 @@ Datum: 11.11.2019
 
 - Sonic Pi-Hilfe zu `sample` etc. und Tutorial "3 Samples"
 - Nyquist and sampling quality: https://www.youtube.com/watch?v=pKa_m9KGB98&t=1m12s, https://www.youtube.com/watch?v=kLZqo1xwOWs
+- Was ist der Unterschied zwischen analogen und digitalen Daten?, https://www.youtube.com/watch?v=IZUcqFCsKnA
 - "Can I Get Another Amen", Dokumentarfilm über den Amen Break von Nate Harrison, https://archive.org/details/NateHarrisonCanIGetAnAmen
 
 ## Session 4: Filter und Effekte in Sonic Pi, Musiktheorie
@@ -164,6 +165,6 @@ Datum: 27.01.2020
 
 ## Ergänzende Literatur und Links (Resources and Good Reads)
 
-Über die Jahre habe ich Ressourcen gesammelt, auf die ich auch immer wieder selbst zurückgreife. Die Themen umfassen u. a.: 
+Über die Jahre habe ich Ressourcen gesammelt, auf die ich auch immer wieder selbst zurückgreife. Die Themen umfassen u. a.:
 
 [Sonic Pi, Live Coding, Synthesizer, Klangsynthese, Musiktheorie, Akustik, Ästhetik, Software, Sampes und mehr](https://github.com/mbutz/sonicpi-leuphana-ws2021/blob/master/resources-and-good-reads.md)
