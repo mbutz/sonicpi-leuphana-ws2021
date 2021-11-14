@@ -19,9 +19,10 @@
 * Live coding dub techno in Sonic Pi von Jindřich Mynarz, https://www.youtube.com/watch?v=a1RxpJkvqpY
 * Earth To Abigail, Jungle Rhythms - Live Coding Session with Sonic Pi
 https://m.youtube.com/watch?v=AuNNYn2BQYU
-* Martin Butz,  Making Music with Text: Audible Programming with Sonic Pi (Live Coding & Presentation), https://media.ccc.de/v/sonoj2018-1806-sonic-pi
 * Martin Butz, Live Coding Set with Sonic Pi, 6th of November 2021, Lift, 28203 Bremen, Weberstraße 18, https://soundcloud.com/mbutz/live-coding-set-with-sonic-pi-06112021
-* Martin Butz, (mostly) live coded experiments and tracks, https://www.youtube.com/channel/UCT_roO1KTLkJTO-4qQPe_kg; tracks made with Sonic Pi and some postproduction on https://soundcloud.com/mbutz/tracks
+* Martin Butz,  Making Music with Text: Audible Programming with Sonic Pi (Live Coding & Presentation), https://media.ccc.de/v/sonoj2018-1806-sonic-pi
+* Martin Butz, (mostly) live coded experiments and tracks, https://www.youtube.com/channel/UCT_roO1KTLkJTO-4qQPe_kg; tracks made with Sonic Pi: https://soundcloud.com/mbutz/sets/sonicpi
+* Re:publica TEN – Hörbar programmieren mit Sonic Pi (Blog-Beitrag),  http://www.mkblog.org/2016/05/04/republica-ten-hoerbar-programmieren-mit-sonic-pi/
 * All things livecoding - A curated list of livecoding languages and tools, https://github.com/lvm/awesome-livecoding/
 * Bericht über Live-Coding im Deutschlandfunk vom 18.10.2016, http://www.deutschlandfunk.de/live-coding-konferenz-die-leute-koennen-sehen-wie-musik.807.de.html?dram:article_id=368890
 * Toplap - Home of Live Coding, http://toplap.org/
