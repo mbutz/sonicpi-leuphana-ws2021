@@ -60,6 +60,7 @@ https://m.youtube.com/watch?v=AuNNYn2BQYU
 * Übersicht über Frequenzbereich unterschiedlicher Instrumente: http://www.guitarbuilding.org/wp-content/uploads/2014/06/Instrument-Sound-EQ-Chart.pdf
 * An awesome way to explore chord progressions: You pick a chord and we show you
  which ones are most likely to come next, https://www.hooktheory.com/trends
+ * Frequency and EQ, https://www.ethanhein.com/wp/2023/frequency-and-eq/
 
 ## Midi and OSC (Open Sound Control)
 
